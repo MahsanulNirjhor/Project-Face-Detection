@@ -1,4 +1,4 @@
-# Project: Face_Detection
+# Project: Face-Detection
 
 ---
 ### Table of Contents:
